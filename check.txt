@@ -1,0 +1,2 @@
+check whether can connect with github
+pull the requese,check the website of github,find whethe have had new check file.
